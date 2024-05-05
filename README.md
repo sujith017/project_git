@@ -41,15 +41,23 @@ Step 6 [Get latest changes ]  -- before work
 =======
 
 
-To change the name of Aristotle AI to desired name in login page
+To change the name of Kongu AI to desired name in login page
 >>>>>>Navigate to aristotleai/src/pages/Login.js
 >>>>>>change the Label to the desired name
-
+Login Password 
+admin 
+admin@123
 To change the name of Aristotle name in navigation bar 
 >>>>>> Navigate to aristotleai/src/component/AdminLayout/AdminLayout.js
 >>>>>><span className="mt-1 ms-1 sidebar-text">
-                            Chimera AI
+                            Kongu AI
           
                 </span>
 change this to desired name.
+The Kongu AI is an revolution model created by Naveekn Sakthi(@naveendgp).with his vission the ui is created in React which is an javascript library.
+Naveen Sakthi is AIML student in kongu engineering college.
+His vision contributed well in this project.
+The ui is released as open source for encourage open community.
+
+
 

@@ -1,7 +1,7 @@
 {
-  "name": "AristotleAI",
+  "name": "Kongu AI",
   "version": "1.0.0",
-  "description": " Aristotle AI ",
+  "description": "The Kongu AI is an revolution model created by Naveekn Sakthi(@naveendgp).with his vission the ui is created in React which is an javascript library",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
