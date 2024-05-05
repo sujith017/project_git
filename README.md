@@ -59,5 +59,5 @@ His vision contributed well in this project.
 The ui is released as open source for encourage open community.
 
  <img src="/public/assets/img/naveen.jpg"  width="500" height="600"> 
-														Naveen Sakhti
+														Naveen Sakhtig
 
