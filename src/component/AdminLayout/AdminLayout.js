@@ -90,7 +90,7 @@ const COMP = () => {
                             />
                           </span>
                           <span className="mt-1 ms-1 sidebar-text">
-                            ChimeraAI
+                            Kongu AI
                           </span>
                         </a>
                       </li>
@@ -657,7 +657,7 @@ const COMP = () => {
                       />
                       <div className="media-body ms-2 text-dark align-items-center d-none d-lg-block">
                         <span className="mb-0 font-small fw-bold text-gray-900">
-                          Chinnasamy
+                         KEC User
                         </span>
                       </div>
                     </div>
