@@ -6,11 +6,11 @@ Step 1 [init code]
 	open explored chose directory 
 	type cmd in address bar
 ```sh
-	git clone https://github.com/achinnasamy/aristotleai.git
+	git clone https://github.com/sujith017/project_git.git
 ```
 Step 2 [start project]
 ```sh
-	cd  aristotleai
+	cd  Kongu AI
 	npm i -f 
 	npm run start
 ```
