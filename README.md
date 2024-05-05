@@ -54,7 +54,7 @@ To change the name of Aristotle name in navigation bar
           
                 </span>
 change this to desired name.
-The Kongu AI is an revolution model created by Naveekn Sakthi(@naveendgp).with his vission the ui is created in React which is an javascript library.
+The Kongu AI is an revolution model created by Naveen Sakthi(@naveendgp).with his vision the ui is created in React which is an javascript library.
 Naveen Sakthi is AIML student in kongu engineering college.
 His vision contributed well in this project.
 The ui is released as open source for encourage open community.
