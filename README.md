@@ -58,6 +58,6 @@ Naveen Sakthi is AIML student in kongu engineering college.
 His vision contributed well in this project.
 The ui is released as open source for encourage open community.
 
- <img src="/public/assets/img/naveen.jpg"  width="500" height="600"> 
-														Naveen Sakhtig
+ <img src="public/assets/img/navven_img2.jpeg"  width="500" height="600"> 
+														Naveen Sakhti - A man With great ideas
 
